@@ -59,7 +59,7 @@
 
 📧 bhamasnair2004@gmail.com  
 📞 +91 7306332150  
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile) *(update this link)*
+🌐 [LinkedIn](https://www.linkedin.com/in/bhama-s-nair-918409292/) 
 
 > “I code for impact, learn to grow, and build to solve.”
 
