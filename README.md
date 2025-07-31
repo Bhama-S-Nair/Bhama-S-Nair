@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhama S Nair
 
-🎓 3rd-year B.Tech student in Artificial Intelligence & Machine Learning  
+🎓 4th-year B.Tech student in Artificial Intelligence & Machine Learning  
 📍 Mahaguru Institute of Technology, Kayamkulam, Kerala  
 💡 Passionate about building real-world tech solutions using AI, ML, and Computer Vision
 
